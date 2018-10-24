@@ -1,0 +1,9 @@
+D:\opencv\opencv\mingw_build\OpenCV-MinGW-Build
+
+
+D:\opencv3\install\x64\mingw\bin;D:\CMake\bin;D:\gcc\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;D:\mysql\bin;D:\Program\Boot2Docker for Windows;D:\CMake\bin;C:\ProgramData\Anaconda3
+
+
+D:\opencv\mingw-build\install\x64\mingw\bin;D:\CMake\bin;D:\gcc\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;D:\mysql\bin;D:\Program\Boot2Docker for Windows;D:\CMake\bin;C:\ProgramData\Anaconda3
+
+D:\opencv\mingw-build
